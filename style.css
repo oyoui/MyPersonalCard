@@ -120,7 +120,7 @@ ol {
     height: 70px;
     position: absolute;
     right: 50px;
-    bottom: 100px;
+    bottom: 30px;
     box-shadow: 0px 4px 8px rgba(86, 86, 86, 0.1);
     flex-shrink: 0;
 }
@@ -192,5 +192,6 @@ body.dark-mode main section:nth-of-type(1) li {
         padding: 30px;
     }
 }
+
 
 
